@@ -68,6 +68,7 @@ menu-container li a:hover{
   display: flex;  
   justify-content:space-around;
      width: 80%;
+     align-self: center;
   
  }
 
