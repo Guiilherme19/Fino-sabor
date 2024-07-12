@@ -187,32 +187,16 @@ text-align : center;
 }
 
 @media (min_width: 769px){
-
-    .content{
-        display: flex ;
-        justify-content: space-between;
-
-    }
-    
-
-    .sidebar, .main{
-width: calc(50% - 20px);
-margin: 10px;
-
-    }
+body{
+    width: 100%;
+}
 
 }
 @media (max-width: 768px){
 
-.content{
-
-    display: block;
-}
-
-.sidebar, .main{
-
+body{
     width: 100%;
-    margin: 10px 0;
 }
+
 
 }
