@@ -190,6 +190,10 @@ text-align : center;
 @media (min_width: 769px){
 body{
     width: 100%;
+    .BlocoA{
+        display: flex;
+        flex-direction: column;
+    }
 }
 
 }
