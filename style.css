@@ -69,13 +69,18 @@ menu-container li a:hover{
   justify-content:space-around;
    
  }
+ .BlocoA > div {
+            margin: 0 20px;
 
-
+ }
 .BlocoB{
     
     display: flex;  
     justify-content:space-around;
   
+}
+.BlocoB > div {
+            margin: 0 20px;
 }
  .BlocoC{
     
@@ -85,14 +90,20 @@ menu-container li a:hover{
             
         
           }
+ .BlocoC > div {
+            margin: 0 20px;
+ }
 .BlocoD{
     
      display: flex;  
     justify-content:space-around;
    
             
-        
               }
+
+ .BlocoD > div {
+            margin: 0 20px;
+ }
 .BlocoE{
     
      display: flex;  
@@ -100,6 +111,10 @@ menu-container li a:hover{
   
                        
                          }
+
+ .BlocoE > div {
+            margin: 0 20px;
+ }
 .BlocoF{
     
      display: flex;  
@@ -108,7 +123,9 @@ menu-container li a:hover{
                                    
                                
                                      }
-
+ .BlocoF > div {
+            margin: 0 20px;
+ }
 button ul{
 text-align : left;
   text-decoration: none;
