@@ -68,8 +68,7 @@ menu-container li a:hover{
   display: flex;  
   justify-content:space-around;
      width: 80%;
-     align-self: center;
-  
+     
  }
 
 
@@ -77,18 +76,22 @@ menu-container li a:hover{
     
     display: flex;  
     justify-content:space-around;
-    
+    width:80%;
+            
 }
  .BlocoC{
     
     display: flex;  
     justify-content:space-around;
+     width:80%;
+            
         
           }
 .BlocoD{
     
      display: flex;  
     justify-content:space-around;
+    width:80%;
             
         
               }
@@ -96,12 +99,14 @@ menu-container li a:hover{
     
      display: flex;  
     justify-content:space-around;
+    width:80%;
                        
                          }
 .BlocoF{
     
      display: flex;  
     justify-content:space-around;
+    width: 80%;
                                    
                                
                                      }
@@ -188,18 +193,4 @@ text-align : center;
  justify-content: flex-end;   
 }
 
-@media (min_width: 769px){
-body{
-    width: 100%;
-  
-}
 
-}
-@media (max-width: 768px){
-
-body{
-    width: 100%;
-}
-
-
-}
